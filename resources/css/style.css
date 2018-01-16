@@ -29,7 +29,21 @@ h3 {
 }
 p {
   font-size: 14px;
+  font-weight: normal;
+}
+.designedbanner {
+  background-image: url("/resources/images/the-flatiron-building.png");
+  color: white;
 }
 .designed {
-  background-image: url("/resources/images/the-flatiron-building.png");
+  color: black;
+}
+.footer {
+  background-color: dimgray;
+  font-size: 11px;
+  text-align: left;
+}
+.navfoot li {
+  display: inline;
+  font-size: 11px;
 }
